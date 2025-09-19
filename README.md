@@ -1,2 +1,3 @@
-# Full-Stack-Java
-A complete Full Stack Java Application using Angular and Spring Boot.
+O comando AT foi preterido. Use schtasks.exe em seu lugar.
+
+NÆo h  suporte para o pedido.
